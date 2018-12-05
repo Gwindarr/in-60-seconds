@@ -22,11 +22,11 @@ First, read through the entire passage once and ignore any words you don't know.
 - @color[red](ทั้งวัน) - all day
 @ulend
 ---
-#### วันนี้ว่างทั้งวันก็เลย@color[green](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
+#### วันนี้ว่างทั้งวันก็เลย@color[blue](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - ว่าง - to have free time; to be available
 - ทั้งวัน - all day
-- @color[green]ควรจะ - should
+- @color[blue](ควรจะ) - should
 @ulend
 
 
