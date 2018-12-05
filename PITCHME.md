@@ -16,13 +16,18 @@ First, read through the entire passage once and ignore any words you don't know.
 @ulend
 
 ---
-#### วันนี้ว่าง@color[blue](ทั้งวัน)ก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
+#### วันนี้ว่าง@color[red](ทั้งวัน)ก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - ว่าง - to have free time; to be available
-- @color[blue](ทั้งวัน) - all day
-- ควรจะ - should
+- @color[red](ทั้งวัน) - all day
 @ulend
-
+---
+#### วันนี้ว่างทั้งวันก็เลย@color[green](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
+@ul 
+- ว่าง - to have free time; to be available
+- ทั้งวัน - all day
+- @color[green]ควรจะ - should
+@ulend
 
 
 ---
