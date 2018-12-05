@@ -1,6 +1,6 @@
 # วันว่าง - Day Off 
 ---
-@color[strong](Instructions:) **How can I comment / line break / strong?
+@color[strong](Instructions:) 
 First, read through the entire passage once and ignore any words you don't know.  On your second pass, see if you can guess what any of the unknown words might mean based on the context from the familiar words surrounding it.  
 ---
 @size[large]
