@@ -1,6 +1,6 @@
 # วันว่าง - Day Off 
 ---
-@color[black](Instructions:) 
+@color[strong](Instructions:) **How can I comment / line break / strong?
 First, read through the entire passage once and ignore any words you don't know.  On your second pass, see if you can guess what any of the unknown words might mean based on the context from the familiar words surrounding it.  
 ---
 @size[large]
@@ -9,9 +9,11 @@ First, read through the entire passage once and ignore any words you don't know.
 
 ---
 วันนี้ว่างทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
+---
+วันนี้@color(blue)(ว่าง)ทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 
 @ul 
-- ว่าง - to have free time; to be free (available)
+- @color(blue)(ว่าง) - to have free time; to be free (available)
 - ทั้งวัน - all day
 - ควรจะ - should
 @ulend
