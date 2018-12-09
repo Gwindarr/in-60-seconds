@@ -17,7 +17,7 @@ First, read through the entire passage once and ignore any words you don't know.
 @ulend
 ---
 ## **ว่าง** 
-### What tone is ว่าง?
+### Determine the Tone
 @ul
 - What consonant class is the initial consonant?  
 - ว แหวน is a LOW class consonant
@@ -28,6 +28,7 @@ First, read through the entire passage once and ignore any words you don't know.
 
 ---
 ## ว่าง 
+### Determine the Tone
 @ul
 - คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
 - วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
@@ -41,7 +42,7 @@ First, read through the entire passage once and ignore any words you don't know.
 @ulend
 ---
 ## **ทั้งวัน** 
-### Tone Breakdown
+### Determine the Tone
 
 ทั้ง
 
