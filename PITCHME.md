@@ -23,8 +23,8 @@ First, read through the entire passage once and ignore any words you don't know.
 - ว แหวน is a LOW class consonant
 - Does it have a modifer (tone mark or hard ending)? 
 - YES, it has the 1st tone mark
-- What is the DEFAULT tone for LOW class?  (DEFAULT = word with no modifiers)
-- The DEFAULT tone for LOW class is MID tone
+- LOW class consonant + 1st tone mark = ????
+- Low class + 1st tone mark = FALLING tone
 
 ---
 ## ว่าง 
@@ -46,16 +46,22 @@ First, read through the entire passage once and ignore any words you don't know.
 ทั้ง
 
 @ul
-- What consonant class is the initial consonant?  - ท is a LOW class consonant
-- Does it have a modifer (tone mark or hard ending)? - YES, it has the 2nd tone mark
+- What consonant class is the initial consonant?  
+- ท is a LOW class consonant
+- Does it have a modifer (tone mark or hard ending)? 
+- YES, it has the 2nd tone mark
+- LOW class + 2nd Tone Mark = ????
 - LOW class + 2nd Tone Mark = HIGH tone
 @ulend
 
 วัน 
 
 @ul
-- What consonant class is the initial consonant?  - ท is a LOW class consonant
-- Does it have a modifer (tone mark or hard ending)? - NO modifiers = DEFAULT tone 
+- What consonant class is the initial consonant?  
+- ท is a LOW class consonant
+- Does it have a modifer (tone mark or hard ending)? 
+- NO modifiers = DEFAULT tone 
+- LOW class + DEFAULT Tone = ???
 - LOW class + DEFAULT Tone = MID tone
 @ulend
 
