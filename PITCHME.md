@@ -19,7 +19,7 @@ First, read through the entire passage once and ignore any words you don't know.
 ## **ว่าง** 
 ### Determine the Tone
 @ul
-- What consonant class is the initial consonant?  
+- What consonant class is the 	__**initial**__ consonant?  
 - ว แหวน is a LOW class consonant
 - Does it have a modifer (tone mark or hard ending)? 
 - YES, it has the 1st tone mark
