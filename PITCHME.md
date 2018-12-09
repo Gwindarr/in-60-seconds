@@ -16,6 +16,14 @@ First, read through the entire passage once and ignore any words you don't know.
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
+## **ว่าง** Tone Breakdown
+@ul
+- What consonant class is the initial consonant?  - ว is a LOW class consonant
+- Does it have a modifer (tone mark or hard ending)? - YES, it has the 1st tone mark
+- LOW class + 1st Tone Mark = FALLING TONE
+
+
+---
 ## ว่าง 
 @ul
 - คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
@@ -41,7 +49,7 @@ First, read through the entire passage once and ignore any words you don't know.
 - ทั้งวัน - all day
 - @color[blue](ควรจะ) - should
 @ulend
-
+---
 
 ---
 @title[Customize Slide Layout]
