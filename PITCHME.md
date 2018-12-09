@@ -19,7 +19,7 @@ First, read through the entire passage once and ignore any words you don't know.
 ## ว่าง 
 @ul
 - คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
-- วันนียุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
+- วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
 - ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
 @ulend
 ---
@@ -27,6 +27,12 @@ First, read through the entire passage once and ignore any words you don't know.
 @ul 
 - ว่าง - to have free time; to be available
 - @color[red](ทั้งวัน) - all day
+@ulend
+---
+##ทั้งวัน - all day
+@ul
+- วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
+- วันเสาร์นี้ยึ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
 ---
 #### วันนี้ว่างทั้งวันก็เลย@color[blue](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
