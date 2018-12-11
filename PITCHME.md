@@ -41,33 +41,17 @@ First, read through the entire passage once and ignore any words you don't know.
 - @color[red](ทั้งวัน) - all day
 @ulend
 ---
+#### Examples with ว่าง
+@ul
+- คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
+- วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
+- ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
+@ulend
+---
 ## **ทั้งวัน** 
 ### Determine the Tone
-
-ทั้ง
-
-@ul
-- What consonant class is the initial consonant?  
-- ท is a LOW class consonant
-- Does it have a modifer (tone mark or hard ending)? 
-- YES, it has the 2nd tone mark
-- LOW class + 2nd Tone Mark = ????
-- LOW class + 2nd Tone Mark = HIGH tone
-@ulend
-
-วัน 
-
-@ul
-- What consonant class is the initial consonant?  
-- ท is a LOW class consonant
-- Does it have a modifer (tone mark or hard ending)? 
-- NO modifiers = DEFAULT tone 
-- LOW class + DEFAULT Tone = ???
-- LOW class + DEFAULT Tone = MID tone
-@ulend
-
 ---
-## ทั้งวัน - all day
+## Examples with ทั้งวัน 
 @ul
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
 - วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
