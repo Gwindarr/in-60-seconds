@@ -70,7 +70,7 @@ First, read through the entire passage once and ignore any words you don't know.
 ## ทั้งวัน - all day
 @ul
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
-- วันเสาร์นี้ยึ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
+- วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
 ---
 #### วันนี้ว่างทั้งวันก็เลย@color[blue](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
