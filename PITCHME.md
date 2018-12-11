@@ -16,7 +16,7 @@ First, read through the entire passage once and ignore any words you don't know.
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
-[Click Here to Determine the Tone of ว่าง](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+- [Click Here to Determine the Tone of ว่าง](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 ---
 ## ว่าง 
 @ul
