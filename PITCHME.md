@@ -17,18 +17,10 @@ First, read through the entire passage once and ignore any words you don't know.
 @ulend
 ---
 ## **ว่าง** 
-### Determine the Tone
-@ul
-- What consonant class is the 	__initial__ consonant?  
-- ว แหวน is a LOW class consonant
-- Does it have a modifer (tone mark or hard ending)? 
-- YES, it has the 1st tone mark
-- LOW class consonant + 1st tone mark = ????
-- Low class + 1st tone mark = FALLING tone
+[Click Here to Determine the Tone of ว่าง@fa[external-link]](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 
 ---
 ## ว่าง 
-### Determine the Tone
 @ul
 - คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
 - วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
