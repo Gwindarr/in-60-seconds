@@ -4,7 +4,7 @@
 @ulend
 ---
 ## **ว่าง** 
-### [Click Here for to Determine the Tone] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[Click Here for to Determine the Tone] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
@@ -16,11 +16,7 @@
 ---
 ## ว่าง 
 ### Determine the Tone
-@ul
-- คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
-- วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
-- ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
-@ulend
+
 ---
 #### วันนี้ว่าง@color[red](ทั้งวัน)ก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
