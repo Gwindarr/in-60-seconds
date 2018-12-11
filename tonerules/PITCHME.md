@@ -1,23 +1,10 @@
-### **วันว่าง** - Day Off 
-#### A short Thai reading exercise
----
-@color[strong](Instructions:) 
-First, read through the entire passage once and ignore any words you don't know.  On your second pass, see if you can guess what any of the unknown words might mean based on the context from the familiar words surrounding it.  
----
-@size[large]
-วันนี้ว่างทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี วันว่างๆ ทั่วไปอาจจะไปดูหนังหรือว่านั่งเล่นเกมที่หอหรืออะไรประมาณนี้ แต่พอตื่นมาเช็คว่าโรงหนังฉายอะไรบ้าง เห็นว่าไม่มีอะไรน่าดูเลย ก็เลยตัดสินใจว่าจะชวนเพื่อนไปนั่งร้านกาแฟกันดีกว่า โทรหาเพื่อนแล้วเขาบอกว่าวันนี้ไม่ว่าง เซ็งเลยอ่ะ ในที่สุดก็ไม่ได้ลุกจากที่นอนแล้วเล่นเกมทั้งวัน 
-
-
----
-วันนี้ว่างทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
----
 #### วันนี้@color[blue](ว่าง)ทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
 ## **ว่าง** 
-### Determine the Tone
+### [Click Here for to Determine the Tone] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
