@@ -4,7 +4,7 @@
 @ulend
 ---
 ## **ว่าง** 
-[Click Here for to Determine the Tone] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+[Click Here for to Determine the Tone[external-link]] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
