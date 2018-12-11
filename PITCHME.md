@@ -18,7 +18,7 @@ First, read through the entire passage once and ignore any words you don't know.
 ---
 @ul
 - Why can't I see the text?  
-[@color[blue](Click Here to Determine the Tone of)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+![@color[blue](Click Here to Determine the Tone of)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 - on these links?
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @ulend
