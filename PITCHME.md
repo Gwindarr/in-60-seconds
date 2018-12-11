@@ -16,14 +16,12 @@ First, read through the entire passage once and ignore any words you don't know.
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
-@snap[south span-100 fs-06]
 @ul
-- Why is this link not working
-[Click Here to Determine the Tone of](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
-- but this one is?
+- Why can't I see the text?  
+[@color[blue](Click Here to Determine the Tone of)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+- on these links?
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @ulend
-@snapend
 
 ---
 ## ว่าง 
