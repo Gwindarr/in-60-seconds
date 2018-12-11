@@ -4,7 +4,8 @@
 @ulend
 ---
 ## **ว่าง** 
-[Click Here for to Determine the Tone@fa[external-link]] (https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+
+![Click Here for to Determine the Tone@fa[external-link]] (https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
