@@ -54,6 +54,7 @@ Or continue on to the next slide to see some example sentences using ทั้�
 - ทั้งวัน - all day
 - @color[blue](ควรจะ) - should
 @ulend
+
 [@color[blue](Click Here for a Tone Breakdown of ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 
 Or continue on to the next slide to see some example sentences using ควรจะ.
