@@ -9,20 +9,17 @@ First, read through the entire passage once and ignore any words you don't know.
 
 
 ---
+**วันว่าง:** Sentence 1
+
 วันนี้ว่างทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 ---
+Read the sentence and take note of the highlighted word.  Do you know the tone?  Do you know the meaning?
 #### วันนี้@color[blue](ว่าง)ทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
-@ul
-- Why can't I see the text?  
-[@color[blue](Click Here to Determine the Tone of)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
-- on these links?
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@ulend
-
+[@color[blue](Click Here for a Tone Breakdown of ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 ---
 ## ว่าง 
 @ul
