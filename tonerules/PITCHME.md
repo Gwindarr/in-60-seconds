@@ -51,7 +51,7 @@
 - YES (Short open vowels like อะ are HARD ENDINGS and end with a glottal stop)
 - MIDDLE class + HARD ENDING = ???
 - MIDDLE class + HARD ENDING = LOW tone
-- [@color[blue](Click Here for to see examples with ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds#/11)
+- [@color[blue](Click Here for to see examples with ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds#/12)
 @ulend
 ---
 ### **ทั่วไป** - generally; normally
