@@ -36,7 +36,7 @@ Or continue on to the next slide to see some example sentences using ว่า�
 - @color[red](ทั้งวัน) - all day
 @ulend
 ---
-[@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)(https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+[@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 
 Or continue on to the next slide to see some example sentences using ทั้ววัน.
 ---
