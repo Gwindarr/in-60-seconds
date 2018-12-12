@@ -23,7 +23,7 @@ Do you know the tone and meaning of the highlighted word?
 
 Or continue on to the next slide to see some example sentences using ว่าง.
 ---
-## ว่าง 
+### ว่าง 
 @ul
 - คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
 - วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
@@ -42,7 +42,7 @@ Or continue on to the next slide to see some example sentences using ว่า�
 
 Or continue on to the next slide to see some example sentences using ทั้ววัน.
 ---
-## Examples with ทั้งวัน 
+### Examples with ทั้งวัน 
 @ul
 - อยากพูดไทย@color[red](ทั้งวัน) - I want to speak Thai @color[red](all day).
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
@@ -60,30 +60,6 @@ Or continue on to the next slide to see some example sentences using ทั้�
 Or continue on to the next slide to see some example sentences using ควรจะ.
 ---
 
-
-
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
-
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
-
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
 
 @snap[south span-100 fs-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
