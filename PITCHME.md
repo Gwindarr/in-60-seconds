@@ -21,7 +21,7 @@ Do you know the tone and meaning of the highlighted word?
 ---
 [@color[blue](Click Here for a Tone Breakdown of ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
 
-Or continue on to the next slide to see more example sentneces using ว่าง.
+Or continue on to the next slide to see some example sentences using ว่าง.
 ---
 ## ว่าง 
 @ul
