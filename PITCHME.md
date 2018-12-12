@@ -38,7 +38,7 @@ Or continue on to the next slide to see some example sentences using ว่า�
   + วัน - day
 @ulend
 ---
-[@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+[@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/1)
 
 Or continue on to the next slide to see some example sentences using ทั้ววัน.
 ---
@@ -55,11 +55,17 @@ Or continue on to the next slide to see some example sentences using ทั้�
 - @color[blue](ควรจะ) - should
 @ulend
 
-[@color[blue](Click Here for a Tone Breakdown of ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+[@color[blue](Click Here for a Tone Breakdown of ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/3)
 
 Or continue on to the next slide to see some example sentences using ควรจะ.
 ---
-
+### Examples with ควรจะ 
+@ul
+- ควรจะเรียนภาษาไทย - You should learn Thai.  
+- ไม่ควรจะ
+-
+@ulend
+---
 
 @snap[south span-100 fs-06]
 [Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
