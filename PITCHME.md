@@ -20,6 +20,7 @@ Do you know the tone and meaning of the highlighted word?
 @ulend
 ---
 [@color[blue](Click Here for a Tone Breakdown of ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+
 Or continue on to the next slide to see more example sentneces using ว่าง.
 ---
 ## ว่าง 
@@ -52,10 +53,10 @@ Or continue on to the next slide to see more example sentneces using ว่า�
 @ul 
 - ว่าง - to have free time; to be available
 - ทั้งวัน - all day
+  + ทั้ง - all; entire
+  + วัน - day
 - @color[blue](ควรจะ) - should
 @ulend
----
-
 ---
 @title[Customize Slide Layout]
 ![](assets/img/presentation.png)
