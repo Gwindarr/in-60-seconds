@@ -39,15 +39,9 @@ Or continue on to the next slide to see some example sentences using ว่า�
 - @color[red](ทั้งวัน) - all day
 @ulend
 ---
-#### Examples with ว่าง
-@ul
-- คืนนี้@color[blue](ว่าง)มั้ย - Are you @color[blue](free) tonight?
-- วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
-- ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
-@ulend
----
 ## Examples with ทั้งวัน 
 @ul
+- อยากพูดไทย@color[red](ทั้งวัน) - I want so speak Thai @color[red](all day).
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
 - วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
