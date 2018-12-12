@@ -26,7 +26,7 @@
 @ulend
 ---
 ## **ทั้งวัน** 
-### Determine the Tone
+### Determine the Tones in the Following Word
 
 ทั้ง
 
