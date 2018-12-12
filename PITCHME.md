@@ -62,7 +62,28 @@ Or continue on to the next slide to see some example sentences using ควร�
 ### Examples with ควรจะ 
 @ul
 - ควรจะเรียนภาษาไทย - You should learn Thai.  
-- ไม่ควรจะ
+- ไม่ควรจะพูดแบบนั้น - You shouldn't talk like that.
+- ควรจะโทรหาพ่อแม่บ้าง - You should call your parents once in a while.
+@ulend
+---
+#### วันนี้ว่างทั้งวันก็เลย@color[blue]ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
+@ul 
+- ทั้งวัน - all day
+- @color[blue](ควรจะ) - should
+@ulend
+---
+[@color[blue](Click Here for a Tone Breakdown of ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/3)
+
+Or continue on to the next slide to see some example sentences using ควรจะ.
+---
+**วันว่าง:** Sentence 2
+ทั่วไปอาจจะไปดูหนังหรือว่านั่งเล่นเกมที่หอหรืออะไรประมาณนี้
+---
+### Examples with ทั่วไป 
+@ul
+- ข่าวทั่วไป - general news
+- Example 2
+- Example 3
 @ulend
 ---
 
