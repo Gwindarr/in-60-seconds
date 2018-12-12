@@ -32,7 +32,6 @@
 @ulend
 ---
 ### **ควรจะ** - should
-ควร - should
 @ul
 - What consonant class is the initial consonant?  
 - ค ควาย is a LOW class consonant
