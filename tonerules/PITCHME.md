@@ -19,7 +19,7 @@
 - LOW class + 2nd Tone Mark = ????
 - LOW class + 2nd Tone Mark = HIGH tone
 @ulend
-
+---
 วัน 
 @ul
 - What consonant class is the initial consonant?  
