@@ -1,4 +1,4 @@
-## **ว่าง** - to be free; to be available
+### **ว่าง** - to be free; to be available
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
@@ -9,7 +9,7 @@
 - [@color[blue](Click Here for to see examples with ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds#/6)
 @ulend
 ---
-## **ทั้งวัน** - all day
+### **ทั้งวัน** - all day
 ทั้ง
 @ul
 - What consonant class is the initial consonant?  
@@ -31,7 +31,7 @@
 - [@color[blue](Click Here for to see examples with ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds#/9)
 @ulend
 ---
-## **ควรจะ** - should
+### **ควรจะ** - should
 ควร - should
 @ul
 - What consonant class is the initial consonant?  
@@ -41,7 +41,8 @@
 - What is the DEFAULT TONE for LOW class words? 
 - The DEFAULT TONE for LOW is MID TONE
 @ulend
-
+--
+### **ควรจะ** - should
 จะ - future tense marker; will
 @ul
 - What consonant class is the initial consonant?  
@@ -50,6 +51,7 @@
 - YES (Short open vowels like อะ are HARD ENDINGS and end with a glottal stop)
 - MIDDLE class + HARD ENDING = ???
 - MIDDLE class + HARD ENDING = LOW tone
+- [@color[blue](Click Here for to see examples with จะ)](https://gitpitch.com/gwindarr/in-60-seconds#/9)
 @ulend
 ---
 ## **ทั่วไป** - generally; normally
