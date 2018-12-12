@@ -30,14 +30,15 @@ Or continue on to the next slide to see some example sentences using ว่า�
 - ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
 @ulend
 ---
-**วันว่าง:** Sentence 2
-#### วันนี้ว่างก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
----
 #### วันนี้ว่าง@color[red](ทั้งวัน)ก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - ว่าง - to have free time; to be available
 - @color[red](ทั้งวัน) - all day
 @ulend
+---
+[@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+
+Or continue on to the next slide to see some example sentences using ทั้ววัน.
 ---
 ## Examples with ทั้งวัน 
 @ul
@@ -45,6 +46,9 @@ Or continue on to the next slide to see some example sentences using ว่า�
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
 - วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
+---
+**วันว่าง:** Sentence 3
+
 ---
 #### วันนี้ว่างทั้งวันก็เลย@color[blue](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
 @ul 
@@ -55,20 +59,9 @@ Or continue on to the next slide to see some example sentences using ว่า�
 - @color[blue](ควรจะ) - should
 @ulend
 ---
-@title[Customize Slide Layout]
-![](assets/img/presentation.png)
 
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
-
----?color=#E58537
-@title[Add A Little Imagination]
 
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
