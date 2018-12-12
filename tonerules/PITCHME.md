@@ -28,7 +28,7 @@
 - NO modifiers = DEFAULT tone 
 - LOW class + DEFAULT Tone = ???
 - LOW class + DEFAULT Tone = MID tone
-- [@color[blue](Click Here for to see examples with ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds#/9)
+- [@color[blue](Click Here for to see examples with ทั้งวัน)](https://gitpitch.com/gwindarr/in-60-seconds#/9)
 @ulend
 ---
 ### **ควรจะ** - should
@@ -41,7 +41,7 @@
 - What is the DEFAULT TONE for LOW class words? 
 - The DEFAULT TONE for LOW is MID TONE
 @ulend
---
+---
 ### **ควรจะ** - should
 จะ - future tense marker; will
 @ul
@@ -51,7 +51,7 @@
 - YES (Short open vowels like อะ are HARD ENDINGS and end with a glottal stop)
 - MIDDLE class + HARD ENDING = ???
 - MIDDLE class + HARD ENDING = LOW tone
-- [@color[blue](Click Here for to see examples with จะ)](https://gitpitch.com/gwindarr/in-60-seconds#/10)
+- [@color[blue](Click Here for to see examples with ควรจะ)](https://gitpitch.com/gwindarr/in-60-seconds#/11)
 @ulend
 ---
 ### **ทั่วไป** - generally; normally
@@ -74,5 +74,7 @@
 - YES, it has the 1st tone mark
 - LOW class + 1st Tone Mark = ????
 - LOW class + 1st Tone Mark = FALLING tone
+- [@color[blue](Click Here for to see examples with ทั่วไป)](https://gitpitch.com/gwindarr/in-60-seconds#/12)
 @ulend
----
+
+-
