@@ -54,7 +54,7 @@
 - [@color[blue](Click Here for to see examples with จะ)](https://gitpitch.com/gwindarr/in-60-seconds#/9)
 @ulend
 ---
-## **ทั่วไป** - generally; normally
+### **ทั่วไป** - generally; normally
 ทั่ว
 @ul
 - What consonant class is the initial consonant?  
@@ -64,7 +64,9 @@
 - LOW class + 1st Tone Mark = ????
 - LOW class + 1st Tone Mark = FALLING tone
 @ulend
-
+---
+### **ทั่วไป** - generally; normally
+ไป
 @ul
 - What consonant class is the initial consonant?  
 - ป ปลา is a LOW class consonant
