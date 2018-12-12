@@ -77,6 +77,7 @@ Or continue on to the next slide to see some example sentences using ควร�
 Or continue on to the next slide to see some example sentences using ควรจะ.
 ---
 **วันว่าง:** Sentence 2
+
 ทั่วไปอาจจะไปดูหนังหรือว่านั่งเล่นเกมที่หอหรืออะไรประมาณนี้
 ---
 ### Examples with ทั่วไป 
