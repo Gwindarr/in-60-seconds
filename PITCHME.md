@@ -11,15 +11,16 @@ First, read through the entire passage once and ignore any words you don't know.
 ---
 **วันว่าง:** Sentence 1
 
-วันนี้ว่างทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
+วันนี้ว่างทั้งวัน ก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 ---
-Read the sentence and take note of the highlighted word.  Do you know the tone?  Do you know the meaning?
+Do you know the tone and meaning of the highlighted word?
 #### วันนี้@color[blue](ว่าง)ทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
 @ul 
 - @color[blue](ว่าง) - to have free time; to be available
 @ulend
 ---
 [@color[blue](Click Here for a Tone Breakdown of ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
+Or continue on to the next slide to see more example sentneces using ว่าง.
 ---
 ## ว่าง 
 @ul
@@ -40,9 +41,6 @@ Read the sentence and take note of the highlighted word.  Do you know the tone? 
 - วันนี้ยุ่งแต่พรุ่งนี้@color[blue](ว่าง) - I'm busy today, but @color[blue](free) tomorrow.
 - ชวนเพื่อนไปดูหนังแต่เขาไม่@color[blue](ว่าง) - I invited my friend to go watch a movie, but they aren't @color[blue](free).
 @ulend
----
-## **ทั้งวัน** 
-### Determine the Tone
 ---
 ## Examples with ทั้งวัน 
 @ul
