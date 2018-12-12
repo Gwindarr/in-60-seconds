@@ -34,6 +34,8 @@ Or continue on to the next slide to see some example sentences using ว่า�
 @ul 
 - ว่าง - to have free time; to be available
 - @color[red](ทั้งวัน) - all day
+  + ทั้ง - all; entire
+  + วัน - day
 @ulend
 ---
 [@color[blue](Click Here for a Tone Breakdown of ทั้งวัน)](https://gitpitch.com/gwindarr/in-60-seconds?p=tonerules#/)
@@ -47,15 +49,9 @@ Or continue on to the next slide to see some example sentences using ทั้�
 - วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
 ---
-**วันว่าง:** Sentence 3
-
----
 #### วันนี้ว่างทั้งวันก็เลย@color[blue](ควรจะ)คิดดีๆ ว่าไปทำอะไรดี
 @ul 
-- ว่าง - to have free time; to be available
 - ทั้งวัน - all day
-  + ทั้ง - all; entire
-  + วัน - day
 - @color[blue](ควรจะ) - should
 @ulend
 ---
