@@ -1,9 +1,4 @@
-#### วันนี้@color[blue](ว่าง)ทั้งวันก็เลยควรจะคิดดีๆ ว่าไปทำอะไรดี
-@ul 
-- @color[blue](ว่าง) - to have free time; to be available
-@ulend
----
-## **ว่าง** 
+## **ว่าง** - to be free; to be available
 @ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
