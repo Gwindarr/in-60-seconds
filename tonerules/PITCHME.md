@@ -4,14 +4,15 @@
 @ulend
 ---
 ## **ว่าง** 
+@ul
 - What consonant class is the 	__initial__ consonant?  
 - ว แหวน is a LOW class consonant
 - Does it have a modifer (tone mark or hard ending)? 
 - YES, it has the 1st tone mark
 - LOW class consonant + 1st tone mark = ????
 - Low class + 1st tone mark = FALLING tone
-[@color[blue](Click Here for a to see examples with ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds#/6)
-
+- [@color[blue](Click Here for a to see examples with ว่าง)](https://gitpitch.com/gwindarr/in-60-seconds#/6)
+@ulend
 
 ---
 ## ว่าง 
