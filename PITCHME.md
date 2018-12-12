@@ -41,7 +41,7 @@ Or continue on to the next slide to see some example sentences using ว่า�
 ---
 ## Examples with ทั้งวัน 
 @ul
-- อยากพูดไทย@color[red](ทั้งวัน) - I want so speak Thai @color[red](all day).
+- อยากพูดไทย@color[red](ทั้งวัน) - I want to speak Thai @color[red](all day).
 - วันนี้นอนดูหนัง@color[red](ทั้งวัน) - Today, I laid around watching movies @color[red](all day).
 - วันเสาร์นี้ยุ่งมาก ต้องทำงาน@color[red](ทั้งวัน) - This Saturday I'm really busy.  I have to work @color[red](all day).
 @ulend
