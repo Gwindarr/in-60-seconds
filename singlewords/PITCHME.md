@@ -1,7 +1,8 @@
 ### Finding the Tones in Thai
 @ul
-- First, we must identify the CONSONANT CLASS of the word.
+- Step one is to identify the CONSONANT CLASS of the word.
 - The class of the INITIAL CONSONANT determines what class that word takes.
+- There are 3 consonant classes each with its own rule set.  
 @ulend
 ---
 Consider the following word:
