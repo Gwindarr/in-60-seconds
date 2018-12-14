@@ -1,11 +1,18 @@
-### How to Figure Out the Tone of a Thai Word
+### Finding the Tones in Thai
 ---
-The first step is to determine what CONSONANT CLASS the word or syllavble you're looking at is.  
-The class of INITIAL CONSONANT of the word determines what class that word takes.
+@ul
+- First, we must identify the CONSONANT CLASS of the word.
+- The class of the INITIAL CONSONANT determines what class that word takes.
+@ulend
 ---
 Consider the following word:
 ####บ้าน - house/home 
-บ้าน is a middle class word because the initial consonant บ is a middle class consonant.  
+@ul
+- บ้าน 
+- What's the initial consonant?
+- บ is the initial consonant.
+- บ is a middle class word because the initial consonant บ ใบไม้ is a middle class consonant.
+-@ulend
 ---
 ###Tone Rules
 Each consonant class has a separate set of tone rules.  It's necessary to learn the rules of each class to determine the tone. 
