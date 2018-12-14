@@ -1,12 +1,11 @@
 ### Finding the Tones in Thai
----
 @ul
 - First, we must identify the CONSONANT CLASS of the word.
 - The class of the INITIAL CONSONANT determines what class that word takes.
 @ulend
 ---
 Consider the following word:
-####บ้าน - house/home 
+#### บ้าน - house/home 
 @ul
 - บ้าน 
 - What's the initial consonant?
