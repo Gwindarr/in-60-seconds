@@ -8,7 +8,7 @@
 Consider the following word:
 #### บ้าน - house/home 
 @ul
-- What's the initial consonant?
+- Which piece is the initial consonant?
 - บ is the initial consonant.
 - บ is a middle class word because the initial consonant บ ใบไม้ is a middle class consonant.
 -@ulend
@@ -38,13 +38,17 @@ What happens to a MIDDLE CLASS word when it has the 2nd tone mark?
 --- 
 Now that we know 2 tone rules for Middle Class, let's look at some more examples using middle class words:
 @ul
-- What tones would the folloiwng words take?
+- What tones would the following words take?
 - บ้าง (some)
   + Just like บ้าน, บ้าง is a falling tone because:
   + MIDDLE CLASS + 2nd TONE MARK = FALLING
+@ulend
+---
+@ul
 - จาน (plate)
   + Does this word have any modifiers?
-  + No.  No modifiers on a MIDDLE CLASS word gives you the DEFAULT tone for that class. 
+  + No.  No modifiers on word means the TONE will be the DEFAULT tone for that class. 
   + What is the DEFAULT tone for MIDDLE CLASS?
   + MID 
 @ulend
+---
