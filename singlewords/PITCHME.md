@@ -1,7 +1,8 @@
 ### How to Figure Out the Tone of a Thai Word
-
+---
 The first step is to determine what CONSONANT CLASS the word or syllavble you're looking at is.  
 The class of INITIAL CONSONANT of the word determines what class that word takes.
+---
 Consider the following word:
 ####บ้าน - house/home 
 บ้าน is a middle class word because the initial consonant บ is a middle class consonant.  
