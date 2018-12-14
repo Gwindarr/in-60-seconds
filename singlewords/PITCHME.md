@@ -37,8 +37,9 @@ What happens to a MIDDLE CLASS word when it has the 2nd tone mark?
 @ulend
 --- 
 Now that we know 2 tone rules for Middle Class, let's look at some more examples using middle class words:
+
+What tones would the following words take?
 @ul
-- What tones would the following words take?
 - บ้าง (some)
   + Just like บ้าน, บ้าง is a falling tone because:
   + MIDDLE CLASS + 2nd TONE MARK = FALLING
