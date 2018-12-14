@@ -18,7 +18,8 @@ Consider the following word:
 The first rule for MIDDLE CLASS words is:
 @ul
 - Default Tone = MID 
-+ Default Tone is when a word has no modifiers.  There are 2 types of modifiers: TONE MARKS and HARD ENDINGS
+  + Default Tone is when a word has no modifiers.  
+  + There are 2 types of modifiers: TONE MARKS and HARD ENDINGS
 @ulend
 ---
 @ul
