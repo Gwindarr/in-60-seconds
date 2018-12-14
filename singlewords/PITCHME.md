@@ -7,15 +7,15 @@
 Consider the following word:
 #### บ้าน - house/home 
 @ul
-- บ้าน 
 - What's the initial consonant?
 - บ is the initial consonant.
 - บ is a middle class word because the initial consonant บ ใบไม้ is a middle class consonant.
 -@ulend
 ---
-###Tone Rules
+### Tone Rules
 Each consonant class has a separate set of tone rules.  It's necessary to learn the rules of each class to determine the tone. 
-The rules for MIDDLE CLASS words are:
+
+The first rule for MIDDLE CLASS words is:
 @ul
 - Default Tone = MID 
 + Default Tone is when a word has no modifiers.  There are 2 types of modifiers: TONE MARKS and HARD ENDINGS
